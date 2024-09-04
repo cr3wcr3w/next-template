@@ -1,4 +1,4 @@
-# Next-Overlord (fan base)
+# Next-Template
 
 ## Tech stack
 - [Next.js](https://nextjs.org)
